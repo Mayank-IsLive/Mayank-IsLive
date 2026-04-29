@@ -1,4 +1,4 @@
-<h3 align="left">Hii My Name is Mayank Saraswal. A FullStack Web Developer....<br>Learning new technologies is my point of interest and i love building beautiful Web Projects.....</h3>
+<h3 align="left">FullStack Web Developer | MERN Stack | Problem Solver | love building beautiful Web Projects</h3>
 
 ###
 
