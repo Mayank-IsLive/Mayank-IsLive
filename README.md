@@ -1,4 +1,11 @@
-<h3 align="left">FullStack Web Developer | MERN Stack | Problem Solver | love building beautiful Web Projects</h3>
+<h1 align="center">Hi 👋, I'm Mayank</h1>
+<h3 align="center">🚀 Building real-world web apps | MERN Stack Developer | Turning ideas into products</h3>
+
+
+
+##  📊 GitHub Stats
+
+
 
 ###
 
@@ -9,7 +16,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<!-- <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  /> -->
 
 ###
 
@@ -38,6 +45,7 @@
 </div>
 
 ###
+## 📫 Connect With Me
 
 <div align="left">
   <a href="https://www.instagram.com/yrrr_mayank/" target="_blank">
